@@ -1,0 +1,15 @@
+h1 {
+ color:blue;
+ text-align: center;
+ text-decoration: underline;
+}
+h2 {
+ color:black;
+ text-align: center;
+ font-style:italic;
+ font-family:verdana;
+}
+h3 {
+	text-align: center;
+	color:gold;
+}
